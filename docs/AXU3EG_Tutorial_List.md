@@ -4,7 +4,7 @@ Part 2: Virtual Machine and Ubuntu VM Installation
 Part 3: Vitis on Ubuntu Installation  
 Part 4: PetaLinux tool Installation  
 Part 5: NFS service Installation  
-Part 6: QT Creator Dev Enviornment  
+Part 6: Qt Creator Dev Enviornment  
 Part 7: Common Linux Commands  
   
 # S1_FPGA_Basic_Tutorials  
@@ -74,7 +74,7 @@ Part 2: Programming the Hello World
 Part 3: GPIO Control LED  
 Part 4: Add Boot Scripts and User Files  
 Part 5: SD Card Root File System  
-Part 6: QT and OpenCV Cross-Compilation Environment  
+Part 6: Qt and OpenCV Cross-Compilation Environment  
 Part 7: Use Vitis to Develop Linux Programs  
 Part 8: Vitis Accelerates Basic Platform Creation  
 Part 9: NVMe SSD operation under Linux  
